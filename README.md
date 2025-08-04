@@ -33,11 +33,3 @@ Here’s what I did:
 - Converted `title` and `type` columns to strings.
 - Cleaned date format as string output for easier viewing.
 
-## How to Use
-
-To run this project on your local machine:
-
-```bash
-git clone https://github.com/sivasakthi-15/Data_analyst_internship.git
-cd Data_analyst_internship
-python clean_netflix_data.py
