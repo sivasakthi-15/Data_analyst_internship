@@ -76,7 +76,7 @@ To clean, preprocess, and visualize product sales data using Power BI. The goal 
 ## Files Used
 
 - `Task_2.pbix` – Power BI dashboard file
-- `sales_dataset.csv` – Raw dataset used for analysis
+- `amazon_sales_datasheet.csv` – Raw dataset used for analysis
 - `README.md` – This file (documentation for Task 2)
 
 ## Tools & Technologies
