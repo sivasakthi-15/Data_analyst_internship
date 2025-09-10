@@ -1,4 +1,6 @@
 **Customer Lifetime Value (LTV) Prediction**
+
+
 **Project Overview**
 
 Customer Lifetime Value (LTV) prediction is a crucial aspect of modern business analytics. It helps companies estimate the long-term value of their customers and make data-driven decisions for marketing, customer retention, and resource allocation.
